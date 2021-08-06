@@ -1,0 +1,25 @@
+{
+  "name": "SPAR TOKEN",
+  "logoURI": "https://sparairdrop.cc/images/favicon.png",
+  "keywords": [
+      "spar",
+      "SPAR",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xF67FFd43b37424E7fBFF4052eB1C806fAf084dfd",
+      "name": "SPAR TOKEN",
+      "symbol": "SPAR",
+      "decimals": 2,
+      "logoURI": "https://sparairdrop.cc/images/favicon.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
